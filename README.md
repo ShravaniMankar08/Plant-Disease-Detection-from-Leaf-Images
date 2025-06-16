@@ -20,20 +20,20 @@ Input size: 128x128 RGB images
 Trained on: Custom or Kaggle leaf disease dataset( link:https://www.kaggle.com/datasets/emmarex/plantdisease)
 
 Classes:
-Bacterial Spot
-Early Blight
-Late Blight
-Leaf Mold
-Septoria Leaf Spot
-Target Spot
-Tomato Yellow Leaf Curl Virus
-Tomato Mosaic Virus
-Healthy
+Bacterial Spot,
+Early Blight,
+Late Blight,
+Leaf Mold,
+Septoria Leaf Spot,
+Target Spot,
+Tomato Yellow Leaf Curl Virus,
+Tomato Mosaic Virus,
+Healthy.
 
 🔧 Installation & Run Locally
 1. Clone the Repo
 bash
-git clone https://github.com/yourusername/Plant_Disease_Detection.git
+git clone[ https://github.com/yourusername/Plant_Disease_Detection.git](https://github.com/ShravaniMankar08/Plant-Disease-Detection-from-Leaf-Images.git)
 cd Plant_Disease_Detection
 2. Install Requirements
 bash
